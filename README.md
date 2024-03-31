@@ -2,6 +2,6 @@
     In notion I create the mini note collection for remidning operations and processes. I will add in pdf format the my page.
 -----------------------
 
---> The turkish first version is added, According to feedbacks I will add english version.
+--> The turkish first version is added, According to feedbacks I will add english version in the coming days
 
 Good Luck !
